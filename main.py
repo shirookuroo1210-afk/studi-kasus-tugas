@@ -30,3 +30,4 @@ if input_number < 0:
     print("Angka harus lebih besar dari atau sama dengan 0")
 else:
     print(terbilang(input_number))
+    #code writted by lyvo
