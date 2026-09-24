@@ -58,3 +58,4 @@ while True:
         break
     else:
         print("Pilihan tidak valid. Silakan masukkan 'e' untuk enkripsi, 'd' untuk dekripsi, atau 'q' untuk keluar.")
+        #code writted by lyvo
