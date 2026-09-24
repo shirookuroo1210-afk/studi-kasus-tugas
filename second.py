@@ -21,3 +21,4 @@ for huruf, count in vokal.items():
     print(f"  {huruf}: {count}")
 
 hitung_vokal(s)
+#code writted by lyvo
