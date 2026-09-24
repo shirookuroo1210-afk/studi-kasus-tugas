@@ -23,4 +23,4 @@ if jumlah > 0:
 
 hitung_huruf_a(data_string)
     
-
+#code writted by lyvo
